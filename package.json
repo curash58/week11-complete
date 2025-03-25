@@ -1,0 +1,20 @@
+{
+  "name": "week11-complete",
+  "version": "1.0.0",
+  "description": "Application Instructions\r This project is divided into two parts:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curash58/week11-complete.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curash58/week11-complete/issues"
+  },
+  "homepage": "https://github.com/curash58/week11-complete#readme"
+}
